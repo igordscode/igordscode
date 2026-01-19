@@ -11,7 +11,7 @@
     <a href="https://idshub.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-idshub.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Website" />
     </a>
-    <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/igordasilvain" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
